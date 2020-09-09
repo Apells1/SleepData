@@ -1,0 +1,13 @@
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\bin\Debug\netcoreapp3.1\SleepData.exe
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\bin\Debug\netcoreapp3.1\SleepData.deps.json
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\bin\Debug\netcoreapp3.1\SleepData.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\bin\Debug\netcoreapp3.1\SleepData.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\bin\Debug\netcoreapp3.1\SleepData.dll
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\bin\Debug\netcoreapp3.1\SleepData.pdb
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepData.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepData.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepData.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepData.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepData.dll
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepData.pdb
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepData.genruntimeconfig.cache
