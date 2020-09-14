@@ -11,3 +11,7 @@ C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepDa
 C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepData.dll
 C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepData.pdb
 C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepData.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\andre\OneDrive\Desktop\.netDB\SleepData\obj\Debug\netcoreapp3.1\SleepData.csproj.CopyComplete

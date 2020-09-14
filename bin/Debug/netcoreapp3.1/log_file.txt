@@ -1,0 +1,10 @@
+2020-09-09 19:17:32.8060|INFO|SleepData.Program|Program started
+2020-09-09 19:24:49.2220|INFO|SleepData.Program|Program ended
+2020-09-09 19:29:23.0943|INFO|SleepData.Program|Program started
+2020-09-09 19:29:24.8398|INFO|SleepData.Program|Program ended
+2020-09-13 22:57:02.1926|INFO|SleepData.Program|Program started
+2020-09-13 22:57:03.7398|INFO|SleepData.Program|Program ended
+2020-09-13 23:00:38.7788|INFO|SleepData.Program|Program started
+2020-09-13 23:00:39.4064|INFO|SleepData.Program|Program ended
+2020-09-13 23:01:34.8106|INFO|SleepData.Program|Program started
+2020-09-13 23:01:36.3013|INFO|SleepData.Program|Program ended
